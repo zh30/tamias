@@ -1,0 +1,11 @@
+{
+  "name": "tamias",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:zhanghecool/tamias.git",
+  "author": "张赫 <zhanghe@zhe.cool>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  }
+}
